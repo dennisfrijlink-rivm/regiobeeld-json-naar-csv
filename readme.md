@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com/dennisfrijlink-rivm/regiobeeld-json-naar-csv">
     <img style="border-radius: 100%;" src="public/logo.jpeg" alt="Logo" width="120" height="120">
   </a>
   <h1 align="center">Regiobeeld configs to .csv</h1>
