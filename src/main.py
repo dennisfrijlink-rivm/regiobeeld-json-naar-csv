@@ -14,7 +14,7 @@ try:
 except:
     print(f"error reading {config_path}")
 
-for path in glob.glob(f"{scan_dir}/**/*.json"):
+for path in glob.glob(f"{scan_dir}/**/*.json", recursive=True):
     try:
         with open(path, "r") as file:
             data = json.load(file)
